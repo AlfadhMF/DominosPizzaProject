@@ -1,0 +1,11 @@
+Utils\Constants.class
+Runners\Smoke.class
+Runners\FailedRunner.class
+Steps\SignUpStep.class
+Utils\ConfigReader.class
+Utils\CommonMethods.class
+Runners\RunnerClass.class
+Pages\SignUpPage.class
+Steps\Hooks.class
+Runners\Regression.class
+Steps\PageInitializer.class
